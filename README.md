@@ -32,17 +32,10 @@ Hi! I am a passionate mobile app developer based in Egypt. I thrive on creating 
 
 <p align="center"> 
     <a href="https://www.linkedin.com/in/ziad-ehap/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-    <a href="https://twitter.com/ZiadEhap" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
     <a href="https://www.instagram.com/ziadehap/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-    <a href="https://t.me/ZiadEhap" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/telegram-app.png"/></a> 
 </p> 
 
 <br /> 
-<p align="center">
-    <a href="#">
-        <img title="🔥 GitHub Streak" alt="Ziad's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Zoz15&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a> 
-</p>
 
 ---
 
