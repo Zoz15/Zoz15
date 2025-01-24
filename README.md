@@ -8,13 +8,12 @@ Hi! I am a passionate mobile app developer based in Egypt. I thrive on creating 
 
 <img src="https://github.com/Zoz15/Zoz15/blob/main/programig.png?raw=true" align="right" width="25%"/>
 
-- 🔭 I’m currently working on **mobile app development projects**
+- 🔭 I’m currently working on **large-scale freelance mobile app development projects**
 - ⚡️ My primary tools include **Flutter and Dart**
 - 🌱 I’m expanding my knowledge in **UI/UX design and backend development**
-- 📥 How to reach me: **[ziadehap@gmail.com](mailto:ziadehap@gmail.com)**
+- 📥 How to reach me: **[iziadehap@gmail.com](mailto:iziadehap@gmail.com)**
 - 👯‍♀️ I’m open to collaborating with **startups and developers**
 - 🥅 2025 Goals: Contribute more to **Open Source Projects**
-- 🎵 Fun fact: I enjoy **music and exploring new technologies**
 
 <br />
 
