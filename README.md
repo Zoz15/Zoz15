@@ -32,7 +32,7 @@ Hi! I am a passionate mobile app developer based in Egypt. I thrive on creating 
 
 <p align="center"> 
     <a href="https://www.linkedin.com/in/ziad-ehap-0aa977329/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-    <a href="https://www.instagram.com/axon_plus/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+    <a href="https://www.instagram.com/i_zoz_24/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 </p> 
 
 <br /> 
