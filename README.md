@@ -3,17 +3,45 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ziad Ehap</h1>
 <h3 align="center">A Mobile App Developer specializing in Flutter</h3>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Zoz15&label=Profile%20views&color=0e75b6&style=flat" alt="Zoz15" />
+  <img src="https://img.shields.io/github/followers/Zoz15?label=Followers&style=social" alt="followers" />
+</p>
+
 ## 🙋‍♂️ About Me
 Hi! I am a passionate mobile app developer based in Egypt. I thrive on creating dynamic and user-friendly applications using Flutter, and I constantly strive to enhance my skills and deliver innovative solutions.
 
 <img src="https://github.com/Zoz15/Zoz15/blob/main/programig.png?raw=true" align="right" width="25%"/>
 
-- 🔭 I’m currently working on **large-scale freelance mobile app development projects**
 - ⚡️ My primary tools include **Flutter and Dart**
-- 🌱 I’m expanding my knowledge in **UI/UX design and backend development**
+- 🌱 Expanding my knowledge in **UI/UX design and backend development**
 - 📥 How to reach me: **[iziadehap@gmail.com](mailto:iziadehap@gmail.com)**
-- 👯‍♀️ I’m open to collaborating with **startups and developers**
+- 👯‍♀️ Open to collaborating with **startups and developers**
 - 🥅 2025 Goals: Contribute more to **Open Source Projects**
+
+<br />
+
+### 🚀 Featured Projects
+
+- **Athkar App** 🕌  
+  Digital tasbeeh counter with daily goals, custom azkar, and dark mode.  
+  *Tech:* Flutter + GetX  
+
+- **E-Commerce App (UI Concept)** 🛒  
+  Modern shopping UI with cart & checkout screens.  
+  *Tech:* Flutter  
+
+- **Minimsg Chat App** 💬  
+  Real-time chat app with Google login, profiles & stories.  
+  *Tech:* Flutter + Supabase  
+
+- **Smart Home UI** 🏠  
+  Glassmorphism-inspired smart home interface with animations.  
+  *Tech:* Flutter  
+
+- **Axion Cycling Tracker** 🚴  
+  GPS cycling app with stats, charts & Firebase Auth.  
+  *Tech:* Flutter + Firebase + GetX  
 
 <br />
 
@@ -31,8 +59,12 @@ Hi! I am a passionate mobile app developer based in Egypt. I thrive on creating 
 ### 🌐 Connect with Me:
 
 <p align="center"> 
-    <a href="https://www.linkedin.com/in/ziad-ehap-0aa977329/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-    <a href="https://www.instagram.com/i_zoz_24/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+    <a href="https://www.linkedin.com/in/iziadehap" target="_blank">
+        <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
+    </a>
+    <a href="mailto:iziadehap@gmail.com" target="_blank">
+        <img src="https://img.icons8.com/fluent/48/000000/gmail.png"/>
+    </a>
 </p> 
 
 <br /> 
